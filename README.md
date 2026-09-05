@@ -1,0 +1,2 @@
+# Qiwix-AI
+Kendim Geliştriyom
